@@ -11,4 +11,5 @@ RED   My new color step 2
 Green  
 blank
 blank
+Pink This color is added locally
 The End   Line 12
