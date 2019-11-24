@@ -7,6 +7,7 @@ yellow
 Orange
 Black
 White
+RED   My new color step 2
 blank
 blank
 The End   Line 12
