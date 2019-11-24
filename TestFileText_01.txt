@@ -8,6 +8,7 @@ Orange
 Black
 White
 RED   My new color step 2
+Green  
 blank
 blank
 The End   Line 12
